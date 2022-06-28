@@ -5,11 +5,16 @@ The puzzle consists of an area divided into a 3x3 grid. On each grid square is a
 Problem:
 The puzzle has been taken from https://murhafsousli.github.io/8puzzle/#/. You can select any picture you like and click on ‘show numbers’ check box on the lower left corner below the picture. Now you can input these numbers as a matrix into your search algorithm as input after clicking on shuffle button.
  
- ![image](https://user-images.githubusercontent.com/81529956/176089713-d95aded8-f631-4cf9-89ee-17d6a63a8366.png)   ![image](https://user-images.githubusercontent.com/81529956/176090185-1522d898-fcb9-4f7d-83e6-185ad16a4caa.png)
+![image](https://user-images.githubusercontent.com/81529956/176091772-72f530fd-17fa-4291-b629-8b72057fc693.png)    ![image](https://user-images.githubusercontent.com/81529956/176091797-32c3edb8-ba1a-4141-8ca5-a548e26e1fb2.png)
 
 
- 
+
+
 ## Solution:
 This puzzle is solved by using two types of search algorithms, A* and Breadth for search (BFS). Of course, BFS takes longer time to run as compared to A*. Attached code files can be referred for the solution. 
 Please note that empty space in the puzzle is represented by ‘0’ in code.
+
+
+
+
 
